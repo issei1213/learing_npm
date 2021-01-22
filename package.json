@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "build": "node_modules/.bin/sass style.scss:style.css"
+  },
   "name": "npm",
   "version": "1.0.0",
   "main": "index.js",
